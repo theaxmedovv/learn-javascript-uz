@@ -21,13 +21,12 @@ Darslar oddiy tushuntirishlar, amaliy misollar va mashqlar orqali tushunarli tar
 12. **12-dars** – Ternarli operator  
 13. **13-dars** – Amaliy mashqlar  
 14. **14-dars** – Function (Funktsiyalar)  
-<<<<<<< HEAD
-15. **15-dars** – String metodlari
-=======
 15. **15-dars** – String metodlari  
->>>>>>> f9295c6 (20-dars clon va README yangilandi)
 16. **16-dars** – Amaliy mashqlar  
-
+17. **17-dars** – Callback  
+18. **18-dars** – Object va destruktizatsiya  
+19. **19-dars** – Massiv (Array)  
+20. **20-dars** – Clonlash  
 
 ---
 
