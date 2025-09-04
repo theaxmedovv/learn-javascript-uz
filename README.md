@@ -21,7 +21,9 @@ Darslar oddiy tushuntirishlar, amaliy misollar va mashqlar orqali tushunarli tar
 12. **12-dars** – Ternarli operator  
 13. **13-dars** – Amaliy mashqlar  
 14. **14-dars** – Function (Funktsiyalar)  
-15. **15-dars** – String metodlari  
+15. **15-dars** – String metodlari
+16. **16-dars** – Amaliy mashqlar  
+
 
 ---
 
